@@ -45,7 +45,7 @@ function displayMenuDetails(menuItem) {
             <button id="btn-like">LIKE</button>
         </div>
     `;
-
+    
     const buyButton = document.querySelector("#btn-buy");
     buyButton.addEventListener("click", () => {
         if (menuItem.qnty > 0) {
