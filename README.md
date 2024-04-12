@@ -4,7 +4,7 @@
 
 A simple web application for displaying a restaurant menu with features like item details, purchasing, and liking.
 
-## Table of Contents
+# Table of Contents
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
